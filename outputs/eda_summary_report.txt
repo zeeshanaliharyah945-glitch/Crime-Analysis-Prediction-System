@@ -1,0 +1,39 @@
+
+================================================================================
+                    CRIME ANALYSIS SUMMARY REPORT
+================================================================================
+
+DATASET OVERVIEW
+--------------------------------------------------------------------------------
+Total Records: 8,063
+Date Range: 2023-01-01 to 2025-12-31
+Number of Areas: 9
+Number of Police Stations: 3
+
+CRIME STATISTICS
+--------------------------------------------------------------------------------
+Total Theft Cases: 4,193
+Total Robbery Cases: 2,274
+Total Assault Cases: 1,355
+Total Murder Cases: 241
+
+Most Common Crime: Theft
+Least Common Crime: Murder
+
+TIME PATTERNS
+--------------------------------------------------------------------------------
+Peak Crime Hour: 5:00 (471 crimes)
+Peak Crime Day: Saturday
+Most Active Time Period: Night
+
+GEOGRAPHICAL INSIGHTS
+--------------------------------------------------------------------------------
+Highest Crime Area: Market Commercial (1820 crimes)
+Highest Crime Police Station: Market Line Police Station
+
+RISK ANALYSIS
+--------------------------------------------------------------------------------
+Average Risk Score: 3.11
+Highest Risk Crime Type: Murder
+
+================================================================================

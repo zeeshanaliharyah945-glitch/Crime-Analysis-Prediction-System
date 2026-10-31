@@ -1,0 +1,11 @@
+Rank,Latitude,Longitude,Radius_m,Crimes,Severity_Score,Area,Dominant_Crime,Dominant_Share_%,Peak_Shift,Last_90_Days
+1,27.571781,68.206804,291,1652,4556,Market Commercial,Theft,56,Night,124
+2,27.562463,68.206278,318,689,1968,Civil Line,Theft,51,Night,75
+3,27.563975,68.21315,210,476,1363,Market Residential,Theft,52,Night,24
+4,27.576904,68.208698,197,445,1248,Market Commercial,Theft,53,Night,39
+5,27.581334,68.222576,167,278,791,Waleed Area,Theft,50,Night,18
+6,27.575634,68.221572,141,162,453,Waleed Extension,Theft,51,Night,20
+7,27.579634,68.217795,155,162,443,Waleed Area,Theft,54,Night,10
+8,27.586714,68.213574,138,151,419,Waleed North,Theft,54,Evening,11
+9,27.577359,68.226509,89,58,171,Waleed Extension,Theft,43,Night,2
+10,27.56087,68.20372,59,19,54,Civil Line,Theft,42,Night,2

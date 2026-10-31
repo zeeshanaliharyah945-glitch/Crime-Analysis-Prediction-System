@@ -1,0 +1,4 @@
+Station,Cells,Actual_Rate,Avg_Pred_Prob,Calibration_Gap,High_Flag_Rate,FPR,TPR,Flag_Share_%,Crime_Share_%,FPR_vs_Overall
+Civil Line Police Station,3285,0.21,0.191,-0.019,0.179,0.148,0.295,16.695,26.709,0.494
+Market Line Police Station,3285,0.3,0.294,-0.006,0.553,0.478,0.729,51.65,41.847,1.596
+Waleed Line Police Station,3285,0.241,0.227,-0.014,0.339,0.292,0.485,31.655,31.444,0.977

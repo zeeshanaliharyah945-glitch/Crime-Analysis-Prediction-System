@@ -1,0 +1,87 @@
+
+================================================================================
+                    CRIME RISK ASSESSMENT REPORT
+                        2026-10-13 12:46:52
+================================================================================
+
+OVERVIEW
+--------------------------------------------------------------------------------
+Total Areas Analyzed: 9
+Critical Risk Areas: 2
+High Risk Areas: 0
+Medium Risk Areas: 0
+Low Risk Areas: 7
+
+TOP 10 HIGHEST RISK AREAS
+--------------------------------------------------------------------------------
+1. Market Area
+   - Risk Level: Critical
+   - Risk Probability: 98.0%
+   - Historical Crime Count: 1255
+
+2. Market Commercial
+   - Risk Level: Critical
+   - Risk Probability: 98.0%
+   - Historical Crime Count: 1820
+
+3. Market Residential
+   - Risk Level: Low
+   - Risk Probability: 3.0%
+   - Historical Crime Count: 617
+
+4. Civil Line
+   - Risk Level: Low
+   - Risk Probability: 0.0%
+   - Historical Crime Count: 898
+
+5. Civil Line Area A
+   - Risk Level: Low
+   - Risk Probability: 0.0%
+   - Historical Crime Count: 520
+
+6. Civil Line Area B
+   - Risk Level: Low
+   - Risk Probability: 0.0%
+   - Historical Crime Count: 535
+
+7. Waleed Area
+   - Risk Level: Low
+   - Risk Probability: 0.0%
+   - Historical Crime Count: 1009
+
+8. Waleed Extension
+   - Risk Level: Low
+   - Risk Probability: 0.0%
+   - Historical Crime Count: 730
+
+9. Waleed North
+   - Risk Level: Low
+   - Risk Probability: 0.0%
+   - Historical Crime Count: 679
+
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+CRITICAL & HIGH RISK AREAS:
+   [1] Increase police patrol frequency
+   [2] Install additional CCTV cameras
+   [3] Conduct community awareness programs
+   [4] Improve street lighting
+   [5] Deploy rapid response teams
+
+MEDIUM RISK AREAS:
+   [1] Monitor crime patterns closely
+   [2] Implement community watch programs
+   [3] Regular security audits
+
+LOW RISK AREAS:
+   [1] Maintain current security measures
+   [2] Preventive awareness campaigns
+
+TIME-BASED RECOMMENDATIONS
+--------------------------------------------------------------------------------
+   [1] Peak crime hours: 20:00 - 04:00 (Night shift)
+   [2] Increase patrols on weekends
+   [3] Focus on high-risk areas during December
+
+================================================================================

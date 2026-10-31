@@ -1,0 +1,4 @@
+Model,Daily_MAE,Weekly_MAE
+AI model (Poisson boosting),0.7521957385763218,2.268888492265347
+Baseline: last 28-day average,0.7488559988559989,2.3
+Baseline: area historical mean,0.751774543994387,2.3384386813651625

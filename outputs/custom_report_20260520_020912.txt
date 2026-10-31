@@ -1,0 +1,60 @@
+
+================================================================================
+                    AREA-WISE CRIME REPORT
+================================================================================
+Generated: 2026-05-20 02:09:12
+
+
+AREA: Civil Line
+--------------------------------------------------------------------------------
+Total Crimes: 351
+Most Common Crime: Theft
+Peak Hour: 3:00
+
+AREA: Market Commercial
+--------------------------------------------------------------------------------
+Total Crimes: 356
+Most Common Crime: Theft
+Peak Hour: 22:00
+
+AREA: Civil Line Area A
+--------------------------------------------------------------------------------
+Total Crimes: 397
+Most Common Crime: Theft
+Peak Hour: 1:00
+
+AREA: Waleed Extension
+--------------------------------------------------------------------------------
+Total Crimes: 355
+Most Common Crime: Theft
+Peak Hour: 0:00
+
+AREA: Market Residential
+--------------------------------------------------------------------------------
+Total Crimes: 366
+Most Common Crime: Theft
+Peak Hour: 3:00
+
+AREA: Waleed North
+--------------------------------------------------------------------------------
+Total Crimes: 368
+Most Common Crime: Theft
+Peak Hour: 21:00
+
+AREA: Market Area
+--------------------------------------------------------------------------------
+Total Crimes: 364
+Most Common Crime: Theft
+Peak Hour: 1:00
+
+AREA: Civil Line Area B
+--------------------------------------------------------------------------------
+Total Crimes: 360
+Most Common Crime: Theft
+Peak Hour: 4:00
+
+AREA: Waleed Area
+--------------------------------------------------------------------------------
+Total Crimes: 399
+Most Common Crime: Theft
+Peak Hour: 4:00
