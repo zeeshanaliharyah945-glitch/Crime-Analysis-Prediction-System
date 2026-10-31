@@ -1,4 +1,0 @@
-Method,MAE_per_cell,Top10_Cells_Capture_%
-AI model (HistGB Poisson),0.4103359922055226,57.314506528849094
-Baseline: last 4-week average,0.4098679098679099,55.41657343349633
-Random cells,,10.101010101010102
